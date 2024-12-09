@@ -25,7 +25,7 @@ LOGGER_ID = int(getenv("-1002451817155", None))
 OWNER_ID = int(getenv("OWNER_ID", 5860411988))
 
 ## Fill these variables if you're deploying on heroku.
-# Your heroku app name
+# Your heroku app name6
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -58,11 +58,7 @@ PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 25))
 # Telegram audio and video file size limit (in bytes)
 TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", 104857600))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
-# Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
-
-
-# Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION1",BQA5FnkHE2cCFSRGOFZKqyVa5nF2nnIPzkge69Gf7DmNGQSyCD5plocLBduZ-il7v94OD0V7joIzHn02MgvxQM0c4PC28c3Bc3pymfVbJb5xmsN3N0rpHCL6_Iibl5cu9idxTUOXcDMBT2nS0wwK-l4802QbjWbiOsJGhNcli6Z87TffxYxPhL1xDeDCA6WL9PQdVnqT1TohKwLtsIVseLDJNKaaTx-fcG7TqthcAIVtxgYjI7aP-vqdoFH_FTO6y_v4rP4bLdM9KUk-HVUpAu7IbB8CYdRPVHf1dpDlmrbdega1hiid3qf3buVcllIVMx0fL4yiln_FQW7DjR80VVLyAAAAAbZ8SyQA None)
+# Checkout https:/QSyCD5plocLBduZ-il7v94OD0V7joIzHn02MgvxQM0c4PC28c3Bc3pymfVbJb5xmsN3N0rpHCL6_Iibl5cu9idxTUOXcDMBT2nS0wwK-l4802QbjWbiOsJGhNcli6Z87TffxYxPhL1xDeDCA6WL9PQdVnqT1TohKwLtsIVseLDJNKaaTx-fcG7TqthcAIVtxgYjI7aP-vqdoFH_FTO6y_v4rP4bLdM9KUk-HVUpAu7IbB8CYdRPVHf1dpDlmrbdega1hiid3qf3buVcllIVMx0fL4yiln_FQW7DjR80VVLyAAAAAbZ8SyQA None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
